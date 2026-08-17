@@ -1,4 +1,4 @@
-# Minimal Prime Finder
+# Prime Finder
 
 A compact C++ implementation for finding the **n-th prime number** using a brute-force trial division algorithm.
 
